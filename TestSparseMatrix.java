@@ -1,4 +1,4 @@
-package lab5;
+
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.StreamTokenizer;
