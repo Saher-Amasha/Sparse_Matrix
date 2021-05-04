@@ -1,4 +1,3 @@
-package lab5;
 
 public class SparseMatrixEntry {
 private double value;
