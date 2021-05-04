@@ -1,4 +1,3 @@
-package lab5;
 
 public interface Matrix {
 	final int MAX_SIZE = 100;
