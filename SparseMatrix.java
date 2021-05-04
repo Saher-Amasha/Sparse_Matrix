@@ -1,4 +1,3 @@
-package lab5;
 
 public class SparseMatrix implements Matrix{
 	double defaultValue;
