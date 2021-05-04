@@ -1,5 +1,3 @@
-package lab5;
-
 public interface List <T>{
 	void insert (T newElement);
 	void remove();
